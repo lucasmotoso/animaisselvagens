@@ -1,0 +1,120 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url("images/b73de9dde5a0aab9a6a8aa0640e5c034313d7e67aacba0350cd646f00af5d85f45fd661059d1b3bb964b5f48ac718ab2b8f73991b5852e3e983edd_1280.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  margin-left: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  font-weight: 700;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 400px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 249px;
+  height: 249px;
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  background-image: url("images/profilelinkedin.png");
+  background-position: 50% 50%;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 {
+    background-position: 50% 50%;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 342px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 330px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 330px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 265px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 253px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 772px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 380px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 490px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 239px;
+  }
+}
+
+.u-section-1 .u-image-1 {
+  transition-property: color, background-color, background-image, border-width, box-shadow, text-shadow, opacity, border-radius, border-color, font-size, font-style, font-weight, font-weight, text-decoration, letter-spacing, transform !important;
+}
